@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Egitim1(MainSubject)", "CSharp_Egitim1(MainSubject)\CSharp_Egitim1(MainSubject).csproj", "{074216F0-F9D9-40C4-94CE-ACC9B37C06FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Egitm2(Variables)", "CSharp_Egitm2(Variables)\CSharp_Egitm2(Variables).csproj", "{5E42B41C-C330-453B-99A1-6A683CF20F74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{074216F0-F9D9-40C4-94CE-ACC9B37C06FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{074216F0-F9D9-40C4-94CE-ACC9B37C06FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{074216F0-F9D9-40C4-94CE-ACC9B37C06FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{074216F0-F9D9-40C4-94CE-ACC9B37C06FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E42B41C-C330-453B-99A1-6A683CF20F74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E42B41C-C330-453B-99A1-6A683CF20F74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E42B41C-C330-453B-99A1-6A683CF20F74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E42B41C-C330-453B-99A1-6A683CF20F74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDE8DD73-6675-48E5-BA97-7A441E2E43FD}
+	EndGlobalSection
+EndGlobal
