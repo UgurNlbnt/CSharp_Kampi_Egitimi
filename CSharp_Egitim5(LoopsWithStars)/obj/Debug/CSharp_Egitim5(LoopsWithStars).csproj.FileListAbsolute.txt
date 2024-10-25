@@ -1,0 +1,7 @@
+D:\CSharp_egitim\CSharp_Egitim1(MainSubject)\CSharp_Egitim5(LoopsWithStars)\bin\Debug\CSharp_Egitim5(LoopsWithStars).exe.config
+D:\CSharp_egitim\CSharp_Egitim1(MainSubject)\CSharp_Egitim5(LoopsWithStars)\bin\Debug\CSharp_Egitim5(LoopsWithStars).exe
+D:\CSharp_egitim\CSharp_Egitim1(MainSubject)\CSharp_Egitim5(LoopsWithStars)\bin\Debug\CSharp_Egitim5(LoopsWithStars).pdb
+D:\CSharp_egitim\CSharp_Egitim1(MainSubject)\CSharp_Egitim5(LoopsWithStars)\obj\Debug\CSharp_Egitim5(LoopsWithStars).csproj.AssemblyReference.cache
+D:\CSharp_egitim\CSharp_Egitim1(MainSubject)\CSharp_Egitim5(LoopsWithStars)\obj\Debug\CSharp_Egitim5(LoopsWithStars).csproj.CoreCompileInputs.cache
+D:\CSharp_egitim\CSharp_Egitim1(MainSubject)\CSharp_Egitim5(LoopsWithStars)\obj\Debug\CSharp_Egitim5(LoopsWithStars).exe
+D:\CSharp_egitim\CSharp_Egitim1(MainSubject)\CSharp_Egitim5(LoopsWithStars)\obj\Debug\CSharp_Egitim5(LoopsWithStars).pdb
