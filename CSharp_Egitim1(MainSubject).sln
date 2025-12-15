@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Egitm2(Variables)", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_DatabaseProject", "09_DatabaseProject\09_DatabaseProject.csproj", "{EEB9B549-3687-4C81-9F67-D51FA341CB1F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_DatabaseCRUD", "10_DatabaseCRUD\10_DatabaseCRUD.csproj", "{8CCD8348-E7CC-4960-B02C-613BFC60D309}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{EEB9B549-3687-4C81-9F67-D51FA341CB1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEB9B549-3687-4C81-9F67-D51FA341CB1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEB9B549-3687-4C81-9F67-D51FA341CB1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CCD8348-E7CC-4960-B02C-613BFC60D309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CCD8348-E7CC-4960-B02C-613BFC60D309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CCD8348-E7CC-4960-B02C-613BFC60D309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CCD8348-E7CC-4960-B02C-613BFC60D309}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
