@@ -121,6 +121,7 @@ namespace _10_DatabaseCRUD
             Console.WriteLine("Ürün Güncelleme İşlemi Tamamlandı.");
 
             #endregion
+
             Console.Read();
         }
     }
